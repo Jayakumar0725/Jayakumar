@@ -31,8 +31,8 @@ header {
 
 /* Profile Image - Positioned to the Top Left */
 .profile-pic {
-    width: 130px;
-    height: 110px;
+    width: 150px;
+    height: 150px;
     border-radius: 55%;
     position: absolute;
     top: 10px;
